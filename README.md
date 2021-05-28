@@ -16,7 +16,7 @@ Data :- https://machinehack.com/hackathons/predict_the_flight_ticket_price_hacka
 
 ## Screens
 <p>
-<img src="1.jpg">
-<img src="2.jpg">
+<img src="1.jpg" height="300em" >
+<img src="2.jpg" height="300em" >
 </p>
 
