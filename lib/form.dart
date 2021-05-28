@@ -73,7 +73,7 @@ class _FormPageState extends State<FormPage> {
                           pageBuilder: (ctx, anim1, anim2) => CustomDialogBox(
                               title: "How to use This App",
                               descriptions:
-                                  "Fill in all the details accurately and Press the Check the data button So that our Machine learning model can accurately detect whether to provide promotion to the candidate.",
+                                  "Fill in all the details accurately and Press the Check the data button So that our Machine learning model can accurately detect the price.",
                               text: "OK"),
                           transitionBuilder: (ctx, anim1, anim2, child) =>
                               BackdropFilter(
