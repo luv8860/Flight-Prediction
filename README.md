@@ -1,16 +1,22 @@
 # flight_project
 
-A new Flutter project.
+End To end machine learning preoject where we are provided with prices of flight tickets for various airlines between the months of March and June of 2019 and between various cities. 
 
-## Getting Started
+## Components used
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+- Flutter
+- Heroku
+- Flask
+- Postman(to verify the API)
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+##Dataset
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Data :- https://machinehack.com/hackathons/predict_the_flight_ticket_price_hackathon/data
+
+## Screens
+<p>
+<img src="1.jpg">
+<img src="2.jpg">
+</p>
+
